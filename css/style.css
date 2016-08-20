@@ -3,7 +3,7 @@
   width: 200px;
   border-radius: 100px;
 } 
-header {
+header, footer {
   background-image:url("https://static.pexels.com/photos/131637/pexels-photo-131637-large.jpeg");
   color: white;
   text-align: center;
@@ -23,11 +23,7 @@ section {
   float: left;
   padding: 15px;
 footer {
-  background: blue;
-  color: white;
-  clear: both
-  text-align: center;
-  padding: 5px;
+  clear: both;
 }
 a {
   color: green;
@@ -35,6 +31,8 @@ a {
 }
 a: hover {
   color: yellow;
+  background: blue;
+  font-size: 50px;
 }
 img {
   border-radius: 100px;
