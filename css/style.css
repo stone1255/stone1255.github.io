@@ -48,8 +48,9 @@ button:hover, #button-two:hover {
   background:yellow;
 }
 footer {
+  background-image:url("https://static.pexels.com/photos/131637/pexels-photo-131637-large.jpeg");
+  background-size: cover;
   color: white;
-  background: blue;
   text-align: center;
   padding: 10px:
   height: 200px;
