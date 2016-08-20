@@ -1,11 +1,10 @@
 .rounded img{
-  height: 200px;
+  height: 300px;
   width: 200px;
   border-radius: 100px;
 } 
 header {
   background-image:url("https://static.pexels.com/photos/131637/pexels-photo-131637-large.jpeg");
-  height: 20px;
   color: white;
   text-align: center;
   padding: 10px:
