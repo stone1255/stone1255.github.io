@@ -3,8 +3,9 @@
   width: 200px;
   border-radius: 100px;
 } 
-header, footer {
+header {
   background-image:url("https://static.pexels.com/photos/131637/pexels-photo-131637-large.jpeg");
+  background-size: cover;
   color: white;
   text-align: center;
   padding: 10px:
@@ -23,6 +24,10 @@ section {
   float: left;
   padding: 15px;
 footer {
+  color: white;
+  text-align: center;
+  padding: 10px:
+  height: 200px;
   clear: both;
 }
 a {
