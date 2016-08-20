@@ -23,12 +23,6 @@ section {
   width: 330px;
   float: left;
   padding: 15px;
-footer {
-  color: white;
-  text-align: center;
-  padding: 10px:
-  height: 200px;
-  clear: both;
   
 button {
   height: 30px;
@@ -37,6 +31,14 @@ button {
   background: orange;
   color: red;
 }
+}
+footer {
+  color: white;
+  text-align: center;
+  padding: 10px:
+  height: 200px;
+  clear: both;
+  
 a {
   color: green;
   text-decoration: none;
