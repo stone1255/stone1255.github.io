@@ -1,5 +1,5 @@
 .rounded img{
-  height: 1000px;
+  height: 200px;
   width: 200px;
   border-radius: 100px;
 } 
@@ -8,6 +8,8 @@ header {
   color: white;
   text-align: center;
   padding: 10px:
+  height: 500px
+  width: 300px;
   }
 nav {
   line-height: 400px;
