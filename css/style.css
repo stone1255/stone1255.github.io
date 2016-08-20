@@ -36,6 +36,14 @@ button {
   color: red;
 }
 
+#button-two {
+  height: 30px;
+  width: 60px;
+  border-radius: 10px;
+  background: red;
+  color: blue;
+}
+
 footer {
   color: white;
   text-align: center;
