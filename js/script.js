@@ -10,7 +10,7 @@ $(document).ready(function(){
  });
  
  $('#fancy-text').click(function(){
-  $('header').css({"font-style":"italic", "color":"purple", "font-size":"30px"});
+  $(this).css({"font-style":"italic", "color":"purple", "font-size":"30px"});
  });
  
 });
