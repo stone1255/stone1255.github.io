@@ -1,6 +1,6 @@
-img (
+img {
 display:none;
-)
+}
 .rounded img{
   height: 200px;
   width: 200px;
@@ -44,9 +44,9 @@ button {
   color: red;
 }
 
-p(
+p {
   display:none;
-  )
+}
 
 #button-two {
   height: 50px;
