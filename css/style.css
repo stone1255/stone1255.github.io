@@ -1,5 +1,5 @@
 img {
-display:none;
+display: none;
 }
 .rounded img{
   height: 200px;
@@ -45,7 +45,7 @@ button {
 }
 
 p {
-  display:none;
+  display: none;
 }
 
 #button-two {
