@@ -6,11 +6,11 @@ $(document).ready(function(){
  $('p').fadeIn(2000);
  
  $('header').click(function(){
-  $(this).css("background-color", "blue");
+  $('header').css("background-color", "blue");
  });
  
  $('#fancy-text').click(function(){
-  $(this).css({"font-style":"italic", "color":"purple", "font-size":"30px"});
+  $('header').css({"font-style":"italic", "color":"purple", "font-size":"30px"});
  });
  
 });
