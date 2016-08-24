@@ -2,6 +2,7 @@
   height: 200px;
   width: 200px;
   border-radius: 100px;
+  display: none;
 } 
 header {
   background-image:url("https://static.pexels.com/photos/131637/pexels-photo-131637-large.jpeg");
