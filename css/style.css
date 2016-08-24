@@ -12,6 +12,10 @@ header {
   padding: 10px:
   height: 200px;
   }
+h1 {
+  display: none;
+  }
+}
 nav {
   line-height: 20px;
   background: #cccccc;
