@@ -17,6 +17,10 @@ html {
     background-size: cover;
 }
 
+h1 {
+    font-family: "Kaushan Script";
+}
+
 #modal-pic {
     height: 100px;
     width: 100px;
