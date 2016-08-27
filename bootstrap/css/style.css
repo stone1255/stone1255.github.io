@@ -13,8 +13,8 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: url('https://static.pexels.com/photos/111755/pexels-photo-111755.jpeg');
-    backgroun-size: cover;
+    background: url('https://static.pexels.com/photos/59516/pexels-photo-59516-large.jpeg');
+    background-size: cover;
 }
 
 #modal-pic {
